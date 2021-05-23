@@ -1,0 +1,16 @@
+PODS:
+  - KYBaseKit (0.1.0)
+
+DEPENDENCIES:
+  - KYBaseKit (from `../`)
+
+EXTERNAL SOURCES:
+  KYBaseKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KYBaseKit: c25149e85db01c58cc3c7e8edb75fb5395352318
+
+PODFILE CHECKSUM: 3f7907872bb30c3f6723dcc2d107af55899ab8c7
+
+COCOAPODS: 1.9.1
