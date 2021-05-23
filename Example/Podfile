@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'KYBaseKit_Example' do
+  pod 'KYBaseKit', :path => '../'
+
+  target 'KYBaseKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
