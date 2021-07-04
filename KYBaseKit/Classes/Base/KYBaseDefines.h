@@ -36,6 +36,8 @@
 #define KYRandomColor KYRGBColor(arc4random_uniform(256), arc4random_uniform(256), arc4random_uniform(256))
 
 #define SYOrangeColor KYRGB16(0xff6542)
+#define SYBlackColor KYRGB16(0x333333)
+#define SYGreyColor KYRGB16(0xd8d8d8)
 
 //图片
 #define KYImageName(name) [UIImage imageNamed:name]
